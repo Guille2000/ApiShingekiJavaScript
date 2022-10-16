@@ -10,9 +10,7 @@ body{
     overflow-x: hidden;
 
 }
-header{
-    overflow: hidden;
-}
+
 @media(min-width:768px){
     .texto{
         width:50%;
